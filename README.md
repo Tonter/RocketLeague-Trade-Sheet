@@ -4,6 +4,7 @@ It helps you keep track of trades and arrange them better.
 
 
 Run the main.py and add a trade:
+
 ![rl_trades](https://user-images.githubusercontent.com/45268315/111537338-fbc65500-8773-11eb-8999-a5d19c26acf2.png)
 
 the trade will be saved in the .xlsx sheet that is there.
